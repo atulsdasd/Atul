@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	 int sum=Integer.MIN_VALUE;
 	 for(int i=0;i<arr.length;i++)
 		sum=Math.max(sum, arr[i])	;
-		 System.out.println(sum);
+		 System.out.println("result = "+sum);
 
 }
 }
